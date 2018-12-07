@@ -1,6 +1,9 @@
-# flirty
+# Flirty UI experiments with Flutter
 
-![image](https://www.canva.com/design/DADLHSZ08yE/view)
+![flirty](https://user-images.githubusercontent.com/30585197/49655570-f6401780-fa60-11e8-9ee4-e61ef2b2761d.png)
+
+
+
 
 ## Getting Started
 
