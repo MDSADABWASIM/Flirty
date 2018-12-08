@@ -2,7 +2,7 @@
 
 ![flirty](https://user-images.githubusercontent.com/30585197/49655570-f6401780-fa60-11e8-9ee4-e61ef2b2761d.png)
 
-##Ready to use screens for flutter
+## Ready to use screens for flutter
 
 [Inshorts demo page](https://github.com/MDSADABWASIM/Flirty/blob/master/lib/screens/inshorts_design.dart)
 
