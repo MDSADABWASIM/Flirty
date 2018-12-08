@@ -5,7 +5,7 @@
 
 ## [Inshorts demo page](https://github.com/MDSADABWASIM/Flirty/blob/master/lib/screens/inshorts_design.dart)
 
-![inshorts_design](https://user-images.githubusercontent.com/30585197/49682170-612b3600-fad5-11e8-8fae-5f6985019751.png)
+![inshorts_design](https://user-images.githubusercontent.com/30585197/49682415-b5381980-fad9-11e8-92fe-26dbb6febdde.png)
 
 
 ## [Profile page](https://github.com/MDSADABWASIM/Flirty/blob/master/lib/screens/profilePage.dart)
