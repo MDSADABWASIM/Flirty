@@ -1,5 +1,5 @@
 [![Twitter: @sadab_wasim](https://img.shields.io/badge/contact-@sadab_wasim-blue.svg?style=flat)](https://twitter.com/sadab_wasim)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
 
 # Flirty -- UI experiments with Flutter
 
